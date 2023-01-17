@@ -1,6 +1,6 @@
 # GuessTheNumber
 A simple console-based JavaScript Number Guessing Game.
-<p align="center"><img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/guess%20the%20num%20logo.png" alt="game-image" height="700px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/guess%20the%20num%20logo.png" alt="game-image" height="600px"></p>
 
 ## Description
 The computer select a random number between 0 and 100. Then the player has to guess what that number is. After each failed attempt the game slows a clue to help the player until they manage to guess the right number.
