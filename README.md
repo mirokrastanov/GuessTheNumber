@@ -1,6 +1,11 @@
 # GuessTheNumber
 A simple console-based JavaScript Number Guessing Game.
-<p align="center"><a href="https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1"><img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/guess%20the%20num%20logo.png" alt="game-image" height="500px"></a></p>
+<p align="center"><a href="https://app-library-13e36.web.app/apps/guess"><img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/guess%20the%20num%20logo.png" alt="game-image" height="500px"></a></p>
+
+## Live Demo
+[<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="40px" />](https://app-library-13e36.web.app/apps/guess)
+### The Demo is now part of my app library 
+- Check out the [App Library](https://app-library-13e36.web.app/)
 
 ## Description
 The computer select a random number between 0 and 100. Then the player has to guess what that number is. After each failed attempt the game slows a clue to help the player until they manage to guess the right number.
@@ -27,8 +32,9 @@ Different outcomes are styled with a specific color to improve their visualizati
 <br /><br />  
   
 ## Live Demo
-[<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="40px" />](https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1)
+[<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="40px" />](https://app-library-13e36.web.app/apps/guess)
+
+- [Original Source Code](https://github.com/mirokrastanov/GuessTheNumber)
+- [React Implementation Code for the App Library](https://github.com/mirokrastanov/app-library/tree/main/client/src/apps/guess)
   
-  
-## [Source Code](guessTheNumber.js)
   
